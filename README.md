@@ -1,5 +1,3 @@
-# Revolutio
-cloning Revolutioa as platform
 
 ## keep it simple 
 ## make it live 
